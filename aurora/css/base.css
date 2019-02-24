@@ -1216,9 +1216,9 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 }
 .da-guildsWrapper,
 .guildsWrapper-5TJh6A.foldercontent {
-	background:url("https://wallpaperplay.com/walls/full/6/1/2/76247.jpg") ;
+	background: var(--backdropblurred);
 	width:90px;
-	background-size:cover !important;
+	background-size:cover ;
 	background-position: center;
 	background-attachment: fixed;
 }
