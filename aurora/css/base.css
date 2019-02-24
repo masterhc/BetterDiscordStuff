@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css");
-::selection {background:var(--main-color-faded);}
+::selection {background:var(--main-color-faded) !important;}
 /*
 /$$$$$$
 /$$__  $$
@@ -957,7 +957,7 @@ div[style*="width: 100%; height: 20px"] {
     transition:.3s width ease;
 }
 .channel-2QD9_O {
-    padding-right:5px;
+    padding-right:2px;
 }
 .contentSelectedText-3wUhMi,
 body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
