@@ -1203,7 +1203,9 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 
 /*5. Guilds*/
 /*5.a. Wrapper*/
-.da-guild,
+.da-guild{
+    margin-left:2px;
+}
 .guild-1EfMGQ.folder,
 .friendsOnline-_wi_fM {
 	margin-left:5px;
@@ -1218,7 +1220,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 .guildsWrapper-5TJh6A.foldercontent {
 	background: var(--backdropblurred);
 	width:90px;
-	background-size:cover ;
+	background-size:cover !important;
 	background-position: center;
 	background-attachment: fixed;
 }
